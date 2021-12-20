@@ -1,38 +1,36 @@
 ## Design and Landscape Experience
-##### Currin Outdoor Living - Raleigh, NC
+### Currin Outdoor Living - Raleigh, NC
 ###### Designer
 Supporting Creative Manager in all aspects of design/sales including but not limited to pre-qualification, site consultation, analysis, analog and digital drafting, estimating, and coordinating with subcontractors, vendors and clients.
 
 January to April 2021
-##### NC State University - Raleigh, NC
+### NC State University - Raleigh, NC
 ###### Student
 Track III-Landscape Architecture.
 
 January 2018 to December 2020
-
- ##### NC State University - Raleigh, NC
- ###### College of Design Graduate Operations Assistant
+### NC State University - Raleigh, NC
+###### College of Design Graduate Operations Assistant
 Responsible for preventative maintenance and improvements in all College facilities, assisting students with project completion, and managing materials and storage.
 
  January 2019 to December 2020
-##### Bee Downtown - Durham, NC
+### Bee Downtown - Durham, NC
 ###### Apprentice Bee-keeper
 Responsible for construction and maintenance of apiary equipment for display on corporate campuses, assisting head bee-keeper in hive care, and harvesting honey.
  
  May to August 2019
- ##### Sunrise Ranch - Loveland, CO
+### Sunrise Ranch - Loveland, CO
 ###### Ranch-hand
 Support role in 300 acres of holistic land management and 6-acre organic garden. Livestock care, mainly cattle. Landscape maintenance.
 
 
 Spring, Summer 2013
-
-##### Reko Patagonia - La Mallín Ahogado, Rio Negro, Argentina
+### Reko Patagonia - La Mallín Ahogado, Rio Negro, Argentina
 ###### Volunteer
 Support role in several build projects, cooking, land-management, woodlot management, household chores.
 
 Fall 2012 - Winter 2013
-##### Design Skill Set
+### Design Skill Set
 - Intermediate to advanced drafting and modeling in Vectorworks 2021.
 - Intermediate graphic illustration in Affinity Suite.
 - Proficient in Adobe Suite.
@@ -43,7 +41,7 @@ Fall 2012 - Winter 2013
 - Watercolor sketching.
 - Programming basics in R, SQL, AppleScript, Python
 ## Seafaring Experience 
-##### _Oliver Hazard Perry_ - Newport, RI 
+### _Oliver Hazard Perry_ - Newport, RI 
 ###### Second Mate
 Responsible to Captain in all matters pertaining to the outfitting and sea-readiness of newly certified ocean-going vessel. 
 - Voyage planning
@@ -53,7 +51,7 @@ Responsible to Captain in all matters pertaining to the outfitting and sea-readi
 
 Off-shore passages. New England, Cuba, Bermuda.
 Winter & Spring 2017
-##### _Pride of Baltimore II_ - Baltimore, MD
+### _Pride of Baltimore II_ - Baltimore, MD
 ###### Chief Mate
 Responsible to Captain in all matters pertaining to ship’s operation. 
 - OICNW. 
@@ -68,7 +66,7 @@ Winter, Spring, Summer 2016
 
 Daysails & offshore passages. Chesapeake Bay, New England, Canadian Maritimes, St. Lawrence Seaway, Great Lakes.
 Winter 2008 - June 2009
-#####  _Wilderness Discoverer_ - Juneau, AK
+###  _Wilderness Discoverer_ - Juneau, AK
 ###### 2nd Mate/Licensed Deckhand
 - OICNW
 - Small boat operations
@@ -76,7 +74,7 @@ Winter 2008 - June 2009
 
 Expedition-based passenger cruises. Southeast Alaska.
 Winter - Fall 2015
-##### _Sørlandet_ - Kristiansand, Norway 
+### _Sørlandet_ - Kristiansand, Norway 
 ###### Boatswain
 Responsible to Chief Mate in all matters related to deck department.
 - Rigging care and maintenance 
@@ -85,7 +83,7 @@ Responsible to Chief Mate in all matters related to deck department.
 
 Blue water voyages. North Sea, Atlantic Ocean, Caribbean Sea, Mediterranean Sea.
 Summer 2011 - Spring 2013
-##### _Søren Larsen_ - Avatiu, Cook Islands
+### _Søren Larsen_ - Avatiu, Cook Islands
 ###### Boatswain
 Responsible to Chief Mate in all matters pertaining to the deck department
 - RFPNW
@@ -93,7 +91,7 @@ Responsible to Chief Mate in all matters pertaining to the deck department
 
 Blue water voyages. New Zealand, Western South Pacific.
 Spring, Summer 2011
-##### _Roseway_ - St. Croix, USVI
+### _Roseway_ - St. Croix, USVI
 ###### First Mate 
 Responsible to the Captain in all matters aboard ship. 
 - OICNW
@@ -109,7 +107,7 @@ Winter 2010 - Winter 2011
 East Atlantic Ocean, Mediterranean Sea
 Fall 2007 - Winter 2008
 
-##### _Timberwind_ - Rockport, ME
+### _Timberwind_ - Rockport, ME
 ###### Deckhand
 - Outfitting
 - Daily operations 
@@ -117,20 +115,20 @@ Fall 2007 - Winter 2008
 
 Inland passenger cruises. Penobscot Bay, ME.
 Spring, Summer, Fall 2007
-##### _Ocean Star_ - Road Harbor, BVI
+### _Ocean Star_ - Road Harbor, BVI
 ###### Trainee
 
 Offshore passages. BVI, Windward Islands, Leeward Islands.
 Fall 2005
 
 ## Boatbuilding and Shipyard Experience
-##### _Corwith Cramer_ - Woods Hole, MA
+### _Corwith Cramer_ - Woods Hole, MA
 ###### Carpenter
 Responsible to Captain for carpentry tasks associated with major re-fit. Major projects include re-caulking teak decks, re-building bunk shelving, repairing mooring hardware, cap-rails, and interior defects.
 
 Astilleros de Mallorca, Mallorca, ESP
 Fall 2016
-##### _Mystic_ - Mystic, CT
+### _Mystic_ - Mystic, CT
 ###### Chief Mate
 Responsible to Captain in mast removal for emergency rig inspection. Supervision of sailing crew in overall fit out. General oversight of yard-managed projects. OICNW during delivery down to USVI.
 
@@ -142,44 +140,36 @@ Fall 2014-Winter 2015
 Professional instruction in all skills related to wooden boat building, including drafting and lofting. Construction of Gillett Beachcomber and Atkin Flipper skiffs. Construction of backbone and transom and frame-up on 36’ Chamberlin motor-sailor.
 
 Fall 2013 - Fall 2014
-
-##### _Sørlandet_ - Kristiansand, NO
+### _Sørlandet_ - Kristiansand, NO
 ###### Rig Foreman
-
 Responsible to yard foreman for the complete re-assembly of a fully-rigged ship post re-fit. Coordinate with shipyard for scheduling use of heavy equipment and supervise all major installations. Coordinate with Captain and Officers for placement of idle crew in re-installing electronics, safety checks, etc.
 
 Desan Shipyard, Tuzla, Turkey
 Summer 2012
-
- ##### _Roseway_ - St. Croix, USVI
- ###### Foreman
-
+### _Roseway_ - St. Croix, USVI
+###### Foreman
 Management of novice crew for routine shipyard maintenance as well as major projects: Replace all standing rigging, replace M.E. exhaust manifold, replace fore crosstrees.
 
 Gloucester Marine Railway, Gloucester, MA 
 Fall 2010
-
-##### _Caledonia_ - Halifax, NS
+### _Caledonia_ - Halifax, NS
 ###### Re-Fit Crew
 Installation of overheads, packing transits, general fit-out projects during dry-dock period in Norfolk, VA.
 
 Colonna Shipyard, Norfolk, VA
 Winter 2008
 ## Other Work/Volunteer Experience**
-
-##### Langston Enterprises
+### Langston Enterprises - Number Nine, AR
 ###### Press Operator
 Monitor and trouble-shoot automated bale-pressing, binding, and bagging machinery in large-scale cotton gin. Maintain accurate, real-time record of bale weights for growers, supplier, and customers. First stage quality control. Fire-fighting. 
 
-Number Nine, AR
+
 Fall 2016
-
-
-##### SUWS of the Carolinas
+### SUWS of the Carolinas - Old Fort, NC
 ###### Field Instructor
 Monitor safety of at-risk youth in Pisgah National Forest. Facilitate therapeutic goals as outlined by a licensed social worker. Provide instruction in primitive living skills. Foster “leave-no-trace” ethics.
 
-Old Fort, NC―June-September 2009
+Summer 2009
 ## Maritime Credentials And Certificates
 - OICNW, Oceans, limited to 3000 GT (STCW II/1)** 
 - Master, 100-ton Aux/Sail, Near Coastal (STCW II/3)
@@ -195,14 +185,13 @@ Old Fort, NC―June-September 2009
 - TWIC
 - PADI Rescue Diver
 
- ## Education
-#### Master in Landscape Architecture
+## Education
+### Master in Landscape Architecture
 **North Carolina State University** - Raleigh, NC: Landscape Architecture, 2020
-#### Bachelor of Arts
+### Bachelor of Arts
 **Rhodes College** - Memphis, TN: Philosophy, Education, 2006
-#### Associate of Occupational Studies 
+### Associate of Occupational Studies 
 **Northwest School of Wooden Boatbuilding** - Port Hadlock, WA: Traditional Large Craft, Yacht Interiors and Joinery, 2014
-
 
 ## Skill Set
 - Traditional and modern ship rigging
