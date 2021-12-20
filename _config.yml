@@ -1,3 +1,13 @@
-title: Curricum Vitae
+title: Curriculum Vitae
 author: Peter W Flint
-theme: jekyll-theme-minimal
+email: pwflint@duck.com
+description: > # this means to ignore newlines until "baseurl:"
+
+
+# social links
+twitter_username: KaleiopeDesign
+github_username: pwflint
+
+show_excerpts: false
+
+theme: minima
