@@ -1,32 +1,31 @@
 ## Design and Landscape Experience
 ### Currin Outdoor Living - Raleigh, NC
-###### Designer
+#### Designer
 Supporting Creative Manager in all aspects of design/sales including but not limited to pre-qualification, site consultation, analysis, analog and digital drafting, estimating, and coordinating with subcontractors, vendors and clients.
 
 January to April 2021
 ### NC State University - Raleigh, NC
-###### Student
+#### Student
 Track III-Landscape Architecture.
 
 January 2018 to December 2020
 ### NC State University - Raleigh, NC
-###### College of Design Graduate Operations Assistant
+#### College of Design Graduate Operations Assistant
 Responsible for preventative maintenance and improvements in all College facilities, assisting students with project completion, and managing materials and storage.
 
- January 2019 to December 2020
+January 2019 to December 2020
 ### Bee Downtown - Durham, NC
-###### Apprentice Bee-keeper
+#### Apprentice Bee-keeper
 Responsible for construction and maintenance of apiary equipment for display on corporate campuses, assisting head bee-keeper in hive care, and harvesting honey.
  
- May to August 2019
+May to August 2019
 ### Sunrise Ranch - Loveland, CO
-###### Ranch-hand
+#### Ranch-hand
 Support role in 300 acres of holistic land management and 6-acre organic garden. Livestock care, mainly cattle. Landscape maintenance.
-
 
 Spring, Summer 2013
 ### Reko Patagonia - La Mallín Ahogado, Rio Negro, Argentina
-###### Volunteer
+#### Volunteer
 Support role in several build projects, cooking, land-management, woodlot management, household chores.
 
 Fall 2012 - Winter 2013
@@ -40,9 +39,10 @@ Fall 2012 - Winter 2013
 - Analog drafting and illustration.
 - Watercolor sketching.
 - Programming basics in R, SQL, AppleScript, Python
+
 ## Seafaring Experience 
 ### _Oliver Hazard Perry_ - Newport, RI 
-###### Second Mate
+#### Second Mate
 Responsible to Captain in all matters pertaining to the outfitting and sea-readiness of newly certified ocean-going vessel. 
 - Voyage planning
 - Safety systems
@@ -60,14 +60,14 @@ Responsible to Captain in all matters pertaining to ship’s operation.
 
 Daysails & offshore passages. Chesapeake Bay, Canadian Maritimes, Great Lakes.
 Winter, Spring, Summer 2016 
-###### Deckhand/Asst Engineer
+#### Deckhand/Asst Engineer
 - RFPNW
 - NOAA VOS weather reporter
 
 Daysails & offshore passages. Chesapeake Bay, New England, Canadian Maritimes, St. Lawrence Seaway, Great Lakes.
 Winter 2008 - June 2009
 ###  _Wilderness Discoverer_ - Juneau, AK
-###### 2nd Mate/Licensed Deckhand
+#### 2nd Mate/Licensed Deckhand
 - OICNW
 - Small boat operations
 - Passenger safety/security
@@ -75,7 +75,7 @@ Winter 2008 - June 2009
 Expedition-based passenger cruises. Southeast Alaska.
 Winter - Fall 2015
 ### _Sørlandet_ - Kristiansand, Norway 
-###### Boatswain
+#### Boatswain
 Responsible to Chief Mate in all matters related to deck department.
 - Rigging care and maintenance 
 - Supervision of ABs
@@ -84,7 +84,7 @@ Responsible to Chief Mate in all matters related to deck department.
 Blue water voyages. North Sea, Atlantic Ocean, Caribbean Sea, Mediterranean Sea.
 Summer 2011 - Spring 2013
 ### _Søren Larsen_ - Avatiu, Cook Islands
-###### Boatswain
+#### Boatswain
 Responsible to Chief Mate in all matters pertaining to the deck department
 - RFPNW
 - Care and maintenance of rigging, spars, and hull. 
@@ -92,7 +92,7 @@ Responsible to Chief Mate in all matters pertaining to the deck department
 Blue water voyages. New Zealand, Western South Pacific.
 Spring, Summer 2011
 ### _Roseway_ - St. Croix, USVI
-###### First Mate 
+#### First Mate 
 Responsible to the Captain in all matters aboard ship. 
 - OICNW
 
@@ -100,60 +100,57 @@ Responsible to the Captain in all matters aboard ship.
 Daysails, offshore passages. New England, Canadian Maritimes, St. Lawrence Seaway, Great Lakes, US Virgin Islands.
 Winter 2010 - Winter 2011
 ##### _Bounty_ - Greenport, NY
-###### Able-Bodied Seafarer 
+#### Able-Bodied Seafarer 
 - RFPNW
 - Rigging maintenance
 
 East Atlantic Ocean, Mediterranean Sea
 Fall 2007 - Winter 2008
-
 ### _Timberwind_ - Rockport, ME
-###### Deckhand
+#### Deckhand
 - Outfitting
 - Daily operations 
-
 
 Inland passenger cruises. Penobscot Bay, ME.
 Spring, Summer, Fall 2007
 ### _Ocean Star_ - Road Harbor, BVI
-###### Trainee
-
+#### Trainee
 Offshore passages. BVI, Windward Islands, Leeward Islands.
 Fall 2005
 
 ## Boatbuilding and Shipyard Experience
 ### _Corwith Cramer_ - Woods Hole, MA
-###### Carpenter
+#### Carpenter
 Responsible to Captain for carpentry tasks associated with major re-fit. Major projects include re-caulking teak decks, re-building bunk shelving, repairing mooring hardware, cap-rails, and interior defects.
 
 Astilleros de Mallorca, Mallorca, ESP
 Fall 2016
 ### _Mystic_ - Mystic, CT
-###### Chief Mate
+#### Chief Mate
 Responsible to Captain in mast removal for emergency rig inspection. Supervision of sailing crew in overall fit out. General oversight of yard-managed projects. OICNW during delivery down to USVI.
 
 Fairhaven Shipyard, Fairhaven, MA
 Fall 2014-Winter 2015
 
-##### Northwest School of Wooden Boatbuilding - Port Hadlock, WA
-###### Student
+### Northwest School of Wooden Boatbuilding - Port Hadlock, WA
+#### Student
 Professional instruction in all skills related to wooden boat building, including drafting and lofting. Construction of Gillett Beachcomber and Atkin Flipper skiffs. Construction of backbone and transom and frame-up on 36’ Chamberlin motor-sailor.
 
 Fall 2013 - Fall 2014
 ### _Sørlandet_ - Kristiansand, NO
-###### Rig Foreman
+#### Rig Foreman
 Responsible to yard foreman for the complete re-assembly of a fully-rigged ship post re-fit. Coordinate with shipyard for scheduling use of heavy equipment and supervise all major installations. Coordinate with Captain and Officers for placement of idle crew in re-installing electronics, safety checks, etc.
 
 Desan Shipyard, Tuzla, Turkey
 Summer 2012
 ### _Roseway_ - St. Croix, USVI
-###### Foreman
+#### Foreman
 Management of novice crew for routine shipyard maintenance as well as major projects: Replace all standing rigging, replace M.E. exhaust manifold, replace fore crosstrees.
 
 Gloucester Marine Railway, Gloucester, MA 
 Fall 2010
 ### _Caledonia_ - Halifax, NS
-###### Re-Fit Crew
+#### Re-Fit Crew
 Installation of overheads, packing transits, general fit-out projects during dry-dock period in Norfolk, VA.
 
 Colonna Shipyard, Norfolk, VA
@@ -166,7 +163,7 @@ Monitor and trouble-shoot automated bale-pressing, binding, and bagging machiner
 
 Fall 2016
 ### SUWS of the Carolinas - Old Fort, NC
-###### Field Instructor
+#### Field Instructor
 Monitor safety of at-risk youth in Pisgah National Forest. Facilitate therapeutic goals as outlined by a licensed social worker. Provide instruction in primitive living skills. Foster “leave-no-trace” ethics.
 
 Summer 2009
