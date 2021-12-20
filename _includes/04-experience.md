@@ -52,7 +52,7 @@ Responsible to Captain in all matters pertaining to the outfitting and sea-readi
 Off-shore passages. New England, Cuba, Bermuda.
 Winter & Spring 2017
 ### _Pride of Baltimore II_ - Baltimore, MD
-###### Chief Mate
+#### Chief Mate
 Responsible to Captain in all matters pertaining to ship’s operation. 
 - OICNW. 
 - In charge of NOAA VOS weather reports. 
@@ -99,7 +99,7 @@ Responsible to the Captain in all matters aboard ship.
 
 Daysails, offshore passages. New England, Canadian Maritimes, St. Lawrence Seaway, Great Lakes, US Virgin Islands.
 Winter 2010 - Winter 2011
-##### _Bounty_ - Greenport, NY
+### _Bounty_ - Greenport, NY
 #### Able-Bodied Seafarer 
 - RFPNW
 - Rigging maintenance
@@ -159,7 +159,6 @@ Winter 2008
 ### Langston Enterprises - Number Nine, AR
 ###### Press Operator
 Monitor and trouble-shoot automated bale-pressing, binding, and bagging machinery in large-scale cotton gin. Maintain accurate, real-time record of bale weights for growers, supplier, and customers. First stage quality control. Fire-fighting. 
-
 
 Fall 2016
 ### SUWS of the Carolinas - Old Fort, NC
