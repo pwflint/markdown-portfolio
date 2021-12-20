@@ -1,2 +1,2 @@
-![](2019_Portrait 3_.jpg|250x167)
+![](_images/2019_Portrait 2.JPG|167x250)
 
