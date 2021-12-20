@@ -1,2 +1,2 @@
-![](_images/2019_Portrait 2.JPG|167x250)
+<img src="_images/2019_Portrait 2.JPG" width="167"/>
 
