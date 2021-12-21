@@ -3,12 +3,12 @@
 #### Designer
 Supporting Creative Manager in all aspects of design/sales including but not limited to pre-qualification, site consultation, analysis, analog and digital drafting, estimating, and coordinating with subcontractors, vendors and clients.
 
-January to April 2021
+Winter, Spring 2021
 ### NC State University - Raleigh, NC
-#### Student
+#### Masters Candidate
 Track III-Landscape Architecture.
 
-January 2018 to December 2020
+2018 to 2020
 ### NC State University - Raleigh, NC
 #### College of Design Graduate Operations Assistant
 Responsible for preventative maintenance and improvements in all College facilities, assisting students with project completion, and managing materials and storage.
@@ -18,7 +18,7 @@ January 2019 to December 2020
 #### Apprentice Bee-keeper
 Responsible for construction and maintenance of apiary equipment for display on corporate campuses, assisting head bee-keeper in hive care, and harvesting honey.
  
-May to August 2019
+Summer 2019
 ### Sunrise Ranch - Loveland, CO
 #### Ranch-hand
 Support role in 300 acres of holistic land management and 6-acre organic garden. Livestock care, mainly cattle. Landscape maintenance.
