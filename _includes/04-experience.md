@@ -1,17 +1,22 @@
 ## Design and Landscape Experience
 ### Currin Outdoor Living - Raleigh, NC
 #### Designer
-Supporting Creative Manager in all aspects of design/sales including but not limited to pre-qualification, site consultation, analysis, analog and digital drafting, estimating, and coordinating with subcontractors, vendors and clients.
+- Supporting Creative Manager in all aspects of design/sales.
+- Pre-qualification, site consultation, analysis, analog and digital drafting. 
+- Estimates
+- Coordination with subcontractors, vendors and clients.
 
 Winter, Spring 2021
 ### NC State University - Raleigh, NC
 #### Masters Candidate
-Track III-Landscape Architecture.
+- Track III-Landscape Architecture.
 
 2018 to 2020
 ### NC State University - Raleigh, NC
 #### College of Design Graduate Operations Assistant
-Responsible for preventative maintenance and improvements in all College facilities, assisting students with project completion, and managing materials and storage.
+- Responsible for preventative maintenance and improvements in all College facilities
+- Assist students with project completion, and 
+- Materials and storage management 
 
 January 2019 to December 2020
 ### Bee Downtown - Durham, NC
