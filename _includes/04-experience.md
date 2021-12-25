@@ -155,7 +155,7 @@ Installation of overheads, packing transits, general fit-out projects during dry
 
 Colonna Shipyard, Norfolk, VA
 Winter 2008
-## Other Work/Volunteer Experience**
+## Other Work/Volunteer Experience
 ### Langston Enterprises - Number Nine, AR
 ###### Press Operator
 Monitor and trouble-shoot automated bale-pressing, binding, and bagging machinery in large-scale cotton gin. Maintain accurate, real-time record of bale weights for growers, supplier, and customers. First stage quality control. Fire-fighting. 
