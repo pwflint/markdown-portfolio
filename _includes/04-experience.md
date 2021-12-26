@@ -26,12 +26,17 @@ Responsible for construction and maintenance of apiary equipment for display on 
 Summer 2019
 ### Sunrise Ranch - Loveland, CO
 #### Ranch-hand
-Support role in 300 acres of holistic land management and 6-acre organic garden. Livestock care, mainly cattle. Landscape maintenance.
+- Support role in 300 acres of holistic land management and 6-acre organic garden. 
+- Livestock care, mainly cattle. 
+- Landscape maintenance.
 
 Spring, Summer 2013
 ### Reko Patagonia - La Mallín Ahogado, Rio Negro, Argentina
 #### Volunteer
-Support role in several build projects, cooking, land-management, woodlot management, household chores.
+- Support role in several build projects, 
+- cooking, 
+- land-management, 
+- woodlot management, household chores.
 
 Fall 2012 - Winter 2013
 ### Design Skill Set
