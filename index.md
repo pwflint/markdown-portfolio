@@ -6,10 +6,6 @@ layout: default
 
 <br>
 
-{% include 00-contents.md %}
-
-<br>
-
 {% include 02-image.md %}
 
 <br>
