@@ -1,4 +1,9 @@
 ## Design and Landscape Experience
+### KALEIOPE Environmental Design - Raleigh, NC
+#### Proprietor & Design Lead
+Local business devoted to regenerative landscape design and management. 
+
+Summer 2021 to present
 ### Currin Outdoor Living - Raleigh, NC
 #### Designer
 Supporting Creative Manager in all aspects of design/sales.
