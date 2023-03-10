@@ -58,6 +58,10 @@ Fall 2012 - Winter 2013
 - Watercolor sketching.
 - Programming basics in R, SQL, AppleScript, Python
 
+## Affiliations
+- Emerging Professional, Association of Professional Landscape Designers
+- Member, Cornell Lab of Ornithology
+
 ## Seafaring Experience 
 ### _Oliver Hazard Perry_ - Newport, RI 
 #### Second Mate
