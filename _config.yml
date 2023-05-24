@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 instagram_username: pwflint
-mastodon_username: @pwflint@mindly.social
 github_username: pwflint
 
 show_excerpts: false
