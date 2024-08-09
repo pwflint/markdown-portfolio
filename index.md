@@ -2,10 +2,6 @@
 layout: default
 ---
 
-{% include 00-contents.md %}
-
-<br>
-
 {% include 01-name.md %}
 
 <br>
